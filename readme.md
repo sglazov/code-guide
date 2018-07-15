@@ -3,7 +3,7 @@
 Стандарты для разработки гибкого, надежного и поддерживаемого кода на HTML, CSS и JavaScript
 
 * [Code Guide](http://codeguide.co/) от [@mdo](https://github.com/mdo/code-guide)
-* [Стиль кода HTML-Академии](http://codeguide.academy/html-css.html), [github](https://github.com/htmlacademy/codeguide)
+* [Стиль кода HTML-Академии](http://codeguide.academy/), [github](https://github.com/htmlacademy/codeguide)
 * [Google HTML/CSS Style Guide](http://google.github.io/styleguide/htmlcssguide.html)
 * [CSS Guidelines](http://cssguidelin.es) от Harry Roberts
 * [Sputnik](https://github.com/CSSSR/sputnik) от ребят из CSSSR
@@ -20,4 +20,7 @@
 
 ## Ещё на эту тему 🔥 🔥 🔥 🔥 🔥
 
+* https://htmlacademy.ru/blog/62-codeguide-why-what-and-how
 * https://css-tricks.com/sass-style-guide/
+* https://habr.com/post/143452/
+* https://medium.com/@az597597/3b15b41c9dd5
